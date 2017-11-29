@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "POST de Vicky!"
+date:   2017-11-29 14:56:53 -0300
+categories: jekyll update
+---
+ese es otro post!
